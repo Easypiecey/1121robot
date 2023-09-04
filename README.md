@@ -3,6 +3,7 @@
 :bulb: In this class, the students can learn the basics of manipulating the operation of industrial robot arms (EPSON robot). The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. In the end, the students possess the capability to design an automatic work cell with the robot. 
 ## :beginner: Exercises and resources
 
+
 - Basic and Challenging tasks:
     - [ ] Basic tasks
     - [ ] Challenging tasks
